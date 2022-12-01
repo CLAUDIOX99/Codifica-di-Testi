@@ -24,7 +24,7 @@
 
 			<editionStmt> <!-- (dichiarazione sull'edizione) raggruppa le informazioni riguardo una edizione di un testo. -->
 				<edition>Studenti iscritti al corso di studi di Informatica Umanistica, Università di Pisa.
-					<date when="2023-01">Gennaio 2023</date>
+					<date when="2022-12">Dicembre 2022</date>
 				</edition>
 				<respStmt>
 					<resp>codifica di:</resp>
@@ -98,7 +98,7 @@
 
                 <editionStmt>
                 	<edition>Studenti iscritti al corso di studi di Informatica Umanistica, Università di Pisa.
-                		<date when="2023-01">Gennaio 2023</date>
+                		<date when="2022-12">Dicembre 2022</date>
                 	</edition>
 
                     <respStmt>
@@ -132,7 +132,7 @@
                 	<availability status="restricted">
                 		<p>Accessibile per ricerche accademiche</p>
                 	</availability>
-                	<date when="2023">2023</date>
+                	<date when="2022">2022</date>
                 </publicationStmt>
 
                 <sourceDesc>
